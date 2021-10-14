@@ -1,0 +1,61 @@
+,tag,title,link,vote,date
+0,sql,Is this parameterized query open to SQL injection?,https://stackoverflow.com/questions/69292758/is-this-parameterized-query-open-to-sql-injection,0,2021-09-23 00:53:27Z
+1,sql,How do I get a substring given a pattern?,https://stackoverflow.com/questions/69292677/how-do-i-get-a-substring-given-a-pattern,-1,2021-09-23 00:38:05Z
+2,sql,SQL creating a View with a Temp Table,https://stackoverflow.com/questions/69292641/sql-creating-a-view-with-a-temp-table,0,2021-09-23 00:32:04Z
+3,sql,Date in where clause returning 0 rows,https://stackoverflow.com/questions/69292581/date-in-where-clause-returning-0-rows,0,2021-09-23 00:22:00Z
+4,sql,how do I make my reCaptcha v3 work on my file,https://stackoverflow.com/questions/69292515/how-do-i-make-my-recaptcha-v3-work-on-my-file,0,2021-09-23 00:08:21Z
+5,sql,How to filter many to many joins in EF Core,https://stackoverflow.com/questions/69292498/how-to-filter-many-to-many-joins-in-ef-core,0,2021-09-23 00:06:40Z
+6,sql,I am running into an error message I have not seen with SQLite3. Can you help me figure out what is wrong with my python/SQLite3 code? [duplicate],https://stackoverflow.com/questions/69292417/i-am-running-into-an-error-message-i-have-not-seen-with-sqlite3-can-you-help-me,0,2021-09-22 23:50:10Z
+7,sql,How to reference the actual value in a ony to many relation,https://stackoverflow.com/questions/69292289/how-to-reference-the-actual-value-in-a-ony-to-many-relation,0,2021-09-22 23:24:13Z
+8,sql,"WHERE clause should return type BOOL, but returns FLOAT64 [closed]",https://stackoverflow.com/questions/69292205/where-clause-should-return-type-bool-but-returns-float64,-2,2021-09-22 23:08:15Z
+9,sql,INSERT unless date is the same,https://stackoverflow.com/questions/69292189/insert-unless-date-is-the-same,0,2021-09-22 23:05:07Z
+10,sql,breaking sqlite loop and getting error of database being locked,https://stackoverflow.com/questions/69292060/breaking-sqlite-loop-and-getting-error-of-database-being-locked,-1,2021-09-22 22:41:25Z
+11,sql,Is it possible you instatiate a variable in SQL server using a select statement with another variable,https://stackoverflow.com/questions/69292012/is-it-possible-you-instatiate-a-variable-in-sql-server-using-a-select-statement,-1,2021-09-22 22:34:00Z
+12,sql,Extract Version Number from String and Filter By Min Version,https://stackoverflow.com/questions/69292007/extract-version-number-from-string-and-filter-by-min-version,0,2021-09-22 22:33:19Z
+13,sql,How to return a single row of data,https://stackoverflow.com/questions/69291965/how-to-return-a-single-row-of-data,0,2021-09-22 22:27:04Z
+14,sql,Difficulty making 3 JOINS when 2 and 2 joins work just fine,https://stackoverflow.com/questions/69291931/difficulty-making-3-joins-when-2-and-2-joins-work-just-fine,0,2021-09-22 22:22:30Z
+15,sql,How do I list the titles of films with the fewest rows in the inventory table in sql,https://stackoverflow.com/questions/69291902/how-do-i-list-the-titles-of-films-with-the-fewest-rows-in-the-inventory-table-in,0,2021-09-22 22:18:16Z
+16,sql,How to provide the unique number to all the inserts,https://stackoverflow.com/questions/69291775/how-to-provide-the-unique-number-to-all-the-inserts,-1,2021-09-22 22:01:50Z
+17,sql,How to solve Syntax error with Alter Table Querie?,https://stackoverflow.com/questions/69291741/how-to-solve-syntax-error-with-alter-table-querie,-1,2021-09-22 21:57:01Z
+18,sql,The record selected but the first record didt display SQL [duplicate],https://stackoverflow.com/questions/69291692/the-record-selected-but-the-first-record-didt-display-sql,-3,2021-09-22 21:52:07Z
+19,sql,ORA-01790 PL/SQL: ORA-01790: expression must have same datatype as corresponding expression (Columns in same order UNION),https://stackoverflow.com/questions/69291640/ora-01790-pl-sql-ora-01790-expression-must-have-same-datatype-as-corresponding,-1,2021-09-22 21:46:49Z
+20,sql,Update SQL table with json object,https://stackoverflow.com/questions/69291611/update-sql-table-with-json-object,0,2021-09-22 21:42:47Z
+21,sql,Combine Join query with Where condition query in SQL,https://stackoverflow.com/questions/69291476/combine-join-query-with-where-condition-query-in-sql,0,2021-09-22 21:27:27Z
+22,sql,Query MySQL using data from table,https://stackoverflow.com/questions/69291439/query-mysql-using-data-from-table,0,2021-09-22 21:23:53Z
+23,sql,SQL nested replace or regex,https://stackoverflow.com/questions/69291409/sql-nested-replace-or-regex,-2,2021-09-22 21:21:38Z
+24,sql,Spring Data JPA: filter data based on used ManyToOne field,https://stackoverflow.com/questions/69291275/spring-data-jpa-filter-data-based-on-used-manytoone-field,0,2021-09-22 21:06:11Z
+25,sql,Is there a way to join these two tables in the desired format?,https://stackoverflow.com/questions/69291112/is-there-a-way-to-join-these-two-tables-in-the-desired-format,0,2021-09-22 20:49:38Z
+26,sql,Best way to update the same column without using x update statements (if possible)?,https://stackoverflow.com/questions/69291096/best-way-to-update-the-same-column-without-using-x-update-statements-if-possibl,1,2021-09-22 20:48:30Z
+27,sql,Generate a serial number based on quantity column in sql,https://stackoverflow.com/questions/69291056/generate-a-serial-number-based-on-quantity-column-in-sql,-1,2021-09-22 20:44:39Z
+28,sql,MySQL Cancel JOIN on CASE not matched,https://stackoverflow.com/questions/69290998/mysql-cancel-join-on-case-not-matched,0,2021-09-22 20:38:21Z
+29,sql,How to convert string to date in SQL Server,https://stackoverflow.com/questions/69290993/how-to-convert-string-to-date-in-sql-server,-1,2021-09-22 20:38:15Z
+30,sql,Can SQL remove duplicates within fields rather than records?,https://stackoverflow.com/questions/69290947/can-sql-remove-duplicates-within-fields-rather-than-records,0,2021-09-22 20:32:39Z
+31,sql,How do I calculate ratio in a full join using sql?,https://stackoverflow.com/questions/69290860/how-do-i-calculate-ratio-in-a-full-join-using-sql,0,2021-09-22 20:24:35Z
+32,sql,Backticks in VS Code launch config not working to escape columns with special characters in SQL queries,https://stackoverflow.com/questions/69290827/backticks-in-vs-code-launch-config-not-working-to-escape-columns-with-special-ch,0,2021-09-22 20:22:05Z
+33,sql,How to get 30 most recent results from multiples userIDs,https://stackoverflow.com/questions/69290779/how-to-get-30-most-recent-results-from-multiples-userids,0,2021-09-22 20:17:58Z
+34,sql,How to reshape a Teradata table from long to wide format without aggregation?,https://stackoverflow.com/questions/69290769/how-to-reshape-a-teradata-table-from-long-to-wide-format-without-aggregation,0,2021-09-22 20:17:24Z
+35,sql,prevent fetching rows with same value of another table row in SQL [duplicate],https://stackoverflow.com/questions/69290581/prevent-fetching-rows-with-same-value-of-another-table-row-in-sql,0,2021-09-22 20:01:26Z
+36,sql,Migrate data of the uuid [] columns to another table and remove duplicates from the array when transferring,https://stackoverflow.com/questions/69290409/migrate-data-of-the-uuid-columns-to-another-table-and-remove-duplicates-from,0,2021-09-22 19:45:46Z
+37,sql,New column based on conditions of multiple columns,https://stackoverflow.com/questions/69290346/new-column-based-on-conditions-of-multiple-columns,1,2021-09-22 19:41:02Z
+38,sql,I need date in specified format,https://stackoverflow.com/questions/69290171/i-need-date-in-specified-format,1,2021-09-22 19:25:06Z
+39,sql,How do you retrieve the information from a foreign key in python sqlite,https://stackoverflow.com/questions/69290156/how-do-you-retrieve-the-information-from-a-foreign-key-in-python-sqlite,1,2021-09-22 19:23:41Z
+40,sql,Pivot/Unpivot SQL Result Set Column Names into Separate Column,https://stackoverflow.com/questions/69290148/pivot-unpivot-sql-result-set-column-names-into-separate-column,0,2021-09-22 19:22:45Z
+41,sql,Regular Expressions sql oracle to ensure that order number entered into the database in a standard format,https://stackoverflow.com/questions/69290073/regular-expressions-sql-oracle-to-ensure-that-order-number-entered-into-the-data,0,2021-09-22 19:17:14Z
+42,sql,Postgresql select in variable,https://stackoverflow.com/questions/69290005/postgresql-select-in-variable,0,2021-09-22 19:10:25Z
+43,sql,How to add a column in sql hive based off existing column?,https://stackoverflow.com/questions/69289946/how-to-add-a-column-in-sql-hive-based-off-existing-column,0,2021-09-22 19:05:34Z
+44,sql,Joining Exchange rate with a currency table,https://stackoverflow.com/questions/69289924/joining-exchange-rate-with-a-currency-table,0,2021-09-22 19:03:36Z
+45,sql,"Getting: INVALID_FUNCTION_ARGUMENT: Invalid format: """" when trying to date_parse a string formatted date",https://stackoverflow.com/questions/69289891/getting-invalid-function-argument-invalid-format-when-trying-to-date-parse,0,2021-09-22 19:01:04Z
+46,sql,Selecting from multiple tables in SQL Server,https://stackoverflow.com/questions/69289846/selecting-from-multiple-tables-in-sql-server,0,2021-09-22 18:56:44Z
+47,sql,How to make records read-only once entered in query?,https://stackoverflow.com/questions/69289733/how-to-make-records-read-only-once-entered-in-query,0,2021-09-22 18:45:28Z
+48,sql,"PHP mysqli_prepare() resulting in NULL, why? [closed]",https://stackoverflow.com/questions/69289664/php-mysqli-prepare-resulting-in-null-why,-1,2021-09-22 18:39:57Z
+49,sql,Calculating difference of values between two dates with pyspark,https://stackoverflow.com/questions/69289643/calculating-difference-of-values-between-two-dates-with-pyspark,1,2021-09-22 18:38:40Z
+50,sql,How do I bind a gridview column based on a condition,https://stackoverflow.com/questions/69289582/how-do-i-bind-a-gridview-column-based-on-a-condition,0,2021-09-22 18:33:22Z
+51,sql,Combining multiple Unions Queries - is this the best way?,https://stackoverflow.com/questions/69289415/combining-multiple-unions-queries-is-this-the-best-way,0,2021-09-22 18:19:17Z
+52,sql,AWS Config Fields and Advice,https://stackoverflow.com/questions/69289329/aws-config-fields-and-advice,0,2021-09-22 18:12:42Z
+53,sql,How to convert .CSV File Non Unicode String Type to Integer using SSIS Visual Studio,https://stackoverflow.com/questions/69289315/how-to-convert-csv-file-non-unicode-string-type-to-integer-using-ssis-visual-st,0,2021-09-22 18:11:30Z
+54,sql,"MySQL - Select lowest price that has quantity, if none have quantity, select the lowest price",https://stackoverflow.com/questions/69289307/mysql-select-lowest-price-that-has-quantity-if-none-have-quantity-select-the,0,2021-09-22 18:10:32Z
+55,sql,ER schemas for a prizes of a supermarket,https://stackoverflow.com/questions/69289294/er-schemas-for-a-prizes-of-a-supermarket,0,2021-09-22 18:09:34Z
+56,sql,How do I use LIKE with % in a Select Query in Go for MSSQL?,https://stackoverflow.com/questions/69289160/how-do-i-use-like-with-in-a-select-query-in-go-for-mssql,2,2021-09-22 17:58:21Z
+57,sql,Django lexographic ordering on tuples with a where clause,https://stackoverflow.com/questions/69289158/django-lexographic-ordering-on-tuples-with-a-where-clause,0,2021-09-22 17:58:05Z
+58,sql,What is performance impact if have more than one column as composite primary key in oracle,https://stackoverflow.com/questions/69289117/what-is-performance-impact-if-have-more-than-one-column-as-composite-primary-key,-1,2021-09-22 17:53:41Z
+59,sql,How to filter the data using below given code,https://stackoverflow.com/questions/69288984/how-to-filter-the-data-using-below-given-code,0,2021-09-22 17:43:41Z
